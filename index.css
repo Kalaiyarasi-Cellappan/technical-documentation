@@ -1,0 +1,27 @@
+aside{
+    width: 350px;
+    height: 885px;
+    background-color:gainsboro;
+    font-style: normal;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Javascript{
+    list-style: none ;
+    background-color: orange;
+    position: relative;
+    height: 50px;
+    font-style: normal;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.a{
+    position: relative;
+    text-align: justify;
+    bottom: 900px;
+    width: 700px;
+    left: 400px;
+    font-size: larger;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
